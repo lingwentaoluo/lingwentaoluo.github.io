@@ -1,8 +1,12 @@
 {
     "title":"凌文韬洛の赛博小屋",
-    "subTitle":"凌文韬洛个人Github博客",
+    "subTitle":"欢迎访问凌文韬洛的个人博客",
     "avatarUrl":"https://avatars.githubusercontent.com/u/109259223?v=4",
     "GMEEK_VERSION":"last",
+
+    "onePageListNum":15,
+    "UTC":8,
+    "needComment":1,
     "startSite":"21/12/2025"
 
 }
