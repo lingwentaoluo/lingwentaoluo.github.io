@@ -7,6 +7,8 @@
     "onePageListNum":15,
     "UTC":8,
     "needComment":1,
-    "startSite":"21/12/2025"
+    "startSite":"21/12/2025",
+    "allHead":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekBSZ.js'></script>",
+
 
 }
